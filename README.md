@@ -2,7 +2,7 @@
 
 A Streamlit web app that analyzes the sentiment of user feedback using Hugging Face transformers.  
 Features:
-- Positive / Negative / Neutral classification
+- Positive / Negative classification
 - Confidence score
 - Feedback storage and summary charts
 - Optional multilingual support
